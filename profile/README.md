@@ -1,5 +1,5 @@
-<h2 align=left>We 🤍 coding unusual things</h2>
-<img width=2000 height=300 src=https://i.pinimg.com/originals/58/27/59/582759a8d20ed86187472226e390cc2f.gif />
+<h2 align=center>We 🤍 coding unusual things</h2>
+<img align=center width=2000 height=400 src=https://i.pinimg.com/originals/78/4d/a6/784da6ecc7e8ac9828d788764dfc43a4.gif />
 
 
 <!--
