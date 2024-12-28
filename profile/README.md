@@ -1,4 +1,4 @@
-## We 🤍 coding unusual things
+<h2 align=center>We 🤍 coding unusual things</h2>
 <img width=2000 height=300 src=https://i.pinimg.com/originals/58/27/59/582759a8d20ed86187472226e390cc2f.gif />
 
 
